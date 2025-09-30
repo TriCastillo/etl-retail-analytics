@@ -111,6 +111,8 @@ Below are sample visualizations generated during EDA:
 
 ## Results and Insights
 
+Retail Sales Dashboard - [Power BI Interactive Dashboard](https://app.powerbi.com/groups/me/reports/b0654241-7eb3-4b76-9f61-8d3d880a9780/891143741a190d1e18f6?experience=power-bi)
+
 ### 1. Customer Demographics
 
 - **Gender split**: More female customers than male -> marketing campaigns could target women more, especially in high-value categories like clothing and cosmetics.
